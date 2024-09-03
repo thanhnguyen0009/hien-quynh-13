@@ -184,7 +184,7 @@
     margin: 0 auto; 
   }
 .box-container{
-  height: 900px;
+  height: 850px;
   width: 100%;
   background-image: url('./anh/IMG_5613.webp');
   background-position: bottom;
@@ -228,10 +228,10 @@
   justify-content: center;
   align-items: center;
   margin: 20px 0;
-  width: 80%;
+  width: 70%;
 }
 .img-btn {
-  width: 60%; 
+  width: 45%; 
 }
 
   .box{
@@ -533,7 +533,7 @@
     }
     .box-container{
       /* margin-top: 20px; */
-      height: 900px;
+      height: 850px;
     }
     .box-top{
       margin-top: 80px;
